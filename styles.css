@@ -1,0 +1,5 @@
+/* fonts and colors */
+
+.card{
+    @apply bg-white rounded overflow-hidden shadow-md relative;
+}
